@@ -1,0 +1,7 @@
+Target dependency graph (3 targets)
+ZERO_CHECK in pa1
+src in pa1, depends on:
+ZERO_CHECK in pa1 (explicit)
+tests in pa1, depends on:
+src in pa1 (explicit)
+ZERO_CHECK in pa1 (explicit)
